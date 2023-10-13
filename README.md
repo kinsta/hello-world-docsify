@@ -30,7 +30,7 @@ After connecting the repository, **Static Site Hosting** will automatically try 
 |  |  |
 |---|---|
 | Build command | `` |
-| Node version  |  18.16.0  |
+| Node version  |  `n/a`  |
 | Publish directory | `docs`  |
 
 ### Deployment Lifecycle
