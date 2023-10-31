@@ -30,7 +30,7 @@ Kinsta automatically installs dependencies defined in your `package.json` file d
 After connecting the repository, **Static Site Hosting** will automatically try to populate all the fields with the correct values.
 | Configuration option |Value     |
 |---|---|
-| Build command | `` |
+| Build command |  |
 | Node version  |  `n/a`  |
 | Publish directory | `docs`  |
 
