@@ -1,4 +1,3 @@
-![docsify](https://github.com/kinsta/hello-world-docsify/assets/2342458/f1f356b0-0306-4b05-8379-aee35eaa820c)
 # Kinsta - Hello World - Static Site With Docsify
 
 An example of how to deploy a static site built with Docsify on Kinsta Hosting.
